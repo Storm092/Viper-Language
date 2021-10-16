@@ -10,6 +10,7 @@ PauseConsole
 ```
 
 # Coding In Viper
+ALWAYS RECOMPILE THE SOL BEFORE EDITING THE C# CODE!
 ALLWAYS In the first line do
 
 vinclude <!viper_dev> to start working!
