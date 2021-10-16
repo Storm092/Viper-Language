@@ -1,0 +1,10 @@
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\bin\Debug\ViperLangEditor.exe.config
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\bin\Debug\ViperLangEditor.exe
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\bin\Debug\ViperLangEditor.pdb
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.csprojAssemblyReference.cache
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.Form1.resources
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.Properties.Resources.resources
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.csproj.GenerateResource.cache
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.csproj.CoreCompileInputs.cache
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.exe
+D:\Anti Skid\ViperLangEditor\ViperLangEditor\obj\Debug\ViperLangEditor.pdb
