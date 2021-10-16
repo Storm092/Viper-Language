@@ -4,14 +4,9 @@ Viper, The C# Made Programming Language
 
 # Hello World Example
 ```vinclude <!viper_dev>
-
-
+vinclude <!viper_dev>
 Print > Hello, World!
-
 PauseConsole
-
-
-
 ```
 
 # Coding In Viper
