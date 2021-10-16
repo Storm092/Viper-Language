@@ -1,0 +1,7 @@
+C:\Users\MM\source\repos\ViperL\ViperL\bin\Debug\ViperL.exe.config
+C:\Users\MM\source\repos\ViperL\ViperL\bin\Debug\ViperL.exe
+C:\Users\MM\source\repos\ViperL\ViperL\bin\Debug\ViperL.pdb
+C:\Users\MM\source\repos\ViperL\ViperL\obj\Debug\ViperL.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\ViperL\ViperL\obj\Debug\ViperL.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\ViperL\ViperL\obj\Debug\ViperL.exe
+C:\Users\MM\source\repos\ViperL\ViperL\obj\Debug\ViperL.pdb
