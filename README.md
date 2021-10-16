@@ -26,6 +26,7 @@ DeleteDirectory >
 WriteToFileWithBytes > 
 **GENERAL SYS**
 Print > 
+Delay > 
 PauseConsole
 SetConsColorRed
 SetConsColorYellow
